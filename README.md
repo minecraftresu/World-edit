@@ -1,2 +1,2 @@
-# Call-to-battle-2
+# World Edit 1.12.2
 For minecraftresu.wixsite.com/resu
